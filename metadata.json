@@ -1,0 +1,6 @@
+{
+  "name": "Wife Birthday Celebration & Photo Slideshow",
+  "description": "An interactive, romantic birthday celebration web application for your wife featuring personalized photo slideshows, heartfelt Bengali and English love messages, interactive birthday cake candle blowing, love letters, and ambient romantic music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
